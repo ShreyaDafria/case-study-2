@@ -1,0 +1,46 @@
+#container .box .box-cell.box1 {
+    text-align:justify;
+ }
+#container .box .box-cell.box2 {
+    text-align:justify;
+}
+#container .box .box-cell.box3 {
+    text-align:justify;
+ }
+
+  .copy_right_footer {
+   position: fixed;
+   color: #640075;
+   bottom: 0;
+   width: 100%;
+   background-color: #ff85d0;
+   line-height: 3;
+   text-align: center;
+     font-family: 'Special Elite', cursive;
+     font-weight: bolder;
+
+}
+
+
+.bob
+{
+	background: #f3a7ff;
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+	box-shadow: 30px 20px 18px grey;
+}
+.result
+{
+	box-shadow: 5px 5px 18px grey;
+	letter-spacing: 2px;
+	background: #F2BAC9;
+	border-radius: 20px;
+	margin-top:30px;
+	padding: 20px;
+	border:2px solid grey;
+    height: fit-content;
+}
+
+
+
